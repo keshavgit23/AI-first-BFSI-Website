@@ -319,7 +319,7 @@ Each page educates institutional buyers while guiding adoption.
 
 ### 📞 Collections Intelligence & Agentic AI 
 
-![Collections](screenshots/collections.png)
+![Collections](/assets/screenshots/collections.png)
 
 ---
 
